@@ -1,0 +1,7 @@
+print(type("A"))
+print(type(4))
+print(type(4.2))
+print(type(["1","2"]))
+print(type({"2","3"}))
+print(type({"key":"value"}))
+print(type(("tuple","list")))
